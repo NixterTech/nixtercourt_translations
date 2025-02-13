@@ -1,0 +1,9 @@
+{
+  "config": {
+    "displayName": "English",
+    "path": "en-US"
+  },
+  "common": {
+    "help": "Help",
+  },
+}
