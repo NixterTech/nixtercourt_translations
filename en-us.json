@@ -3,7 +3,63 @@
     "displayName": "English",
     "path": "en-US"
   },
-  "common": {
-    "help": "Help"
+  "titles": {
+    "civiltitle": "Civil Docket",
+    "civili": "Civil",
+    "civititle": "Docket"
+  },
+  "evidencemanager": {
+    "add_evidence": "+ Add Evidence",
+    "close": "Close",
+    "save": "Save Evidence",
+    "plaintiff_modal_title": "Add Plaintiff Evidence",
+    "respondent_modal_title": "Add Respondent Evidence"
+  },
+  "evidenceform": {
+    "display_name": "Evidence Display Name",
+    "evidence_type": "Evidence Type",
+    "select_evidence_type": "-- Select Evidence Type --",
+    "in_relation_to": "In Relation To",
+    "none_new_evidence": "None (New Evidence)",
+    "url_to_evidence": "URL to Evidence",
+    "generated_label": "Generated Label"
+  },
+  "docket-view": {
+    "plaintiff": "Plaintiff",
+    "plaintiff_counsel": "Plaintiff Counsel",
+    "respondent": "Respondent",
+    "respondent_counsel": "Respondent Counsel",
+    "case_type": "Case Type",
+    "court_type": "Court Type",
+    "status": "Status",
+    "closure_status": "Closure Status",
+    "witnesses": "Witnesses",
+    "incident_report": "Incident Report",
+    "damages_requested": "Damages Requested",
+    "settlement_offer": "Settlement Offer",
+    "statement_of_facts": "Statement of Facts",
+    "judge_assigned": "Judge Assigned",
+    "last_updated": "Last Updated",
+    "case_dates": "Case Dates",
+    "add_case_date": "Add Case Date",
+    "delete_case_date_confirm": "Are you sure you want to delete this case date?",
+    "plaintiff_evidence": "Plaintiff Evidence",
+    "respondent_evidence": "Respondent Evidence",
+    "show_evidence_modal": "Show Evidence",
+    "no_evidence_selected": "No Evidence Selected",
+    "delete_evidence_confirm": "Are you sure you want to delete this evidence?",
+    "close": "Close",
+    "save": "Save"
+  },
+  "civil-docket-response": {
+    "title": "Docket Responses",
+    "report": "Report",
+    "reply": "Reply",
+    "editor_placeholder": "Make a Docket Posting",
+    "save_response": "Save Response",
+    "success_message": "Response saved successfully",
+    "error_message": "Error saving response",
+    "scroll_to_bottom": "Scroll to Bottom",
+    "delete_response_confirm": "Are you sure you want to delete this response?"
   }
 }
